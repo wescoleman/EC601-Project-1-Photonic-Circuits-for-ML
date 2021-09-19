@@ -4,15 +4,16 @@
 ### **Topic**
 
 Photonic chips are integrated circuits that use light (photon particles) to store, process and communicate information. They offer an alternative to electronic ICs while providing projected benefits of ~1000 times faster computation than electronic chips while also greatly reducing heat and energy consumption. 
-Why is it important
+
+### Why is it important
 To achieve better computing power with electronics, the size of transistors must go down to fit more on an IC. Reducing their size is becoming increasingly difficult and time consuming while also introducing new problems with each step. As of 2021 there are fabs capable of producing 2nm length transistors (about the wavelength of an ultraviolet ray). As transistors get smaller, inherent resistances increase which increases switching delay and power consumption, quantum mechanics becomes more impactful, and in general we see many diminishing returns from transistor size reduction. Silicon photonics provides a reasonably cost-effective way to fabricate photonic circuits to circumvent these issues. Photonics could also provide avenues to develop faster classical computers as well as accessible and scalable quantum computers.
 
 
-### **Applications and societal Importance**
+### **Applications and Societal Importance**
 
 While raw data in the world is increasing at astronomic rates our capability to process it all is waning. Deep learning requires 1000+ neural net layers and the global time and energy consumption to create convolutional filters and optimize cost functions between layers staggeringly large and ever increasing. Using photonic integrated circuits to store and process data could potentially lower that energy cost by over 3 orders of magnitude.
 
-### **Literature review**
+### **Literature Review**
 
 While Silicon as a material is not optimal for creating photonic circuits, it is the material with which most chip fabs have the capability to create integrated circuits with. Silicon photonics still provides many benefits over electronics and will serve as a good transitionary material until new fabs and research will allow us to work with better suited materials **[5]**. 
 
